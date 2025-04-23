@@ -1,3 +1,3 @@
-# Welkom bij Developer Enablement
+# Welcome at dev enablement the place to be
 
-Dit is de start van je TechDocs-pagina. Voeg hier je documentatie toe!
+This is the start of Dev Enablement - wish us success 
